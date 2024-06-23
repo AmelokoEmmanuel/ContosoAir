@@ -1,5 +1,5 @@
 pool:
-  vmImage: 'git'
+  vmImage: 'Hoste Agent'
 trigger:
   - master
 steps:
